@@ -1,0 +1,9 @@
+# Visual Studio
+
+[Dd]ebug/
+[Rr]elease/
+.vs/
+
+# Unity
+
+[Ll]ibrary/
